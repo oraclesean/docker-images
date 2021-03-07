@@ -1,3 +1,5 @@
+# Archived
+This repository is archived: see [oraclesean/docker-oracle](https://github.com/oraclesean/docker-oracle) for my most current Oracle/Docker content.
 # Docker Images from Oracle
 This repository contains [Dockerfiles](https://docs.docker.com/engine/reference/builder/) and samples to build [Docker](https://www.docker.com/what-docker) images for Oracle commercial products and [Oracle sponsored open source projects](https://oss.oracle.com).
 
